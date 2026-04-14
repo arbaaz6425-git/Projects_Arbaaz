@@ -1,5 +1,3 @@
-# Projects_Arbaaz
-Job Salary Prediction Using Regression
 # Job Salary Prediction Using Regression
 A machine learning project predicting employee salaries using Linear Regression on a 250K-row dataset.
 
