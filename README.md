@@ -23,6 +23,16 @@ This project builds a Linear Regression model that predicts annual employee sala
 
 ---
 
+## Prerequisites
+Before running the notebook, ensure that the following libraries are installed:
+1) pandas
+2) numpy
+3) matplotlib
+4) seaborn
+5) sklearm
+
+---
+
 ## Workflow
 1. Import libraries & load dataset
 2. Data preprocessing — duplicate removal, null handling (mean imputation)
