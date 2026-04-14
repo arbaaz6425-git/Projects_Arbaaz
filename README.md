@@ -1,7 +1,5 @@
 # Job Salary Prediction Using Regression
-A machine learning project predicting employee salaries using Linear Regression on a 250K-row dataset.
-
-**Course:** Fundamentals of Machine Learning | BBA AI & DS, Semester 4 — IBS Hyderabad
+This project builds a Linear Regression model that predicts annual employee salaries based on factors such as years of experience, education level, skills count, industry, and more.
 
 ---
 
