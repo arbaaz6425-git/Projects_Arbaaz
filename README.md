@@ -20,7 +20,7 @@ A machine learning project predicting employee salaries using Linear Regression 
 
 ---
 
-## Tech Stack
+## Stack
 `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`
 
 ---
