@@ -1,4 +1,4 @@
-#Projects_Arbaaz
+# Projects_Arbaaz
 Job Salary Prediction Using Regression
 # Job Salary Prediction Using Regression
 A machine learning project predicting employee salaries using Linear Regression on a 250K-row dataset.
@@ -7,14 +7,14 @@ A machine learning project predicting employee salaries using Linear Regression 
 
 ---
 
-##Objectives
+## Objectives
 - Analyze relationship between job-related factors and salary
 - Build a Linear Regression model using Scikit-learn
 - Evaluate model using MAE, MSE, RMSE, and R² Score
 
 ---
 
-##Dataset
+## Dataset
 - **Source:** Kaggle (open-source)
 - **Size:** 2,50,000 rows × 10 columns
 - **Target Variable:** `salary` (annual compensation)
@@ -27,7 +27,7 @@ A machine learning project predicting employee salaries using Linear Regression 
 
 ---
 
-## 🔄 Workflow
+## Workflow
 1. Import libraries & load dataset
 2. Data preprocessing — duplicate removal, null handling (mean imputation)
 3. Feature selection → `X = experience_years`, `y = salary`
@@ -38,7 +38,7 @@ A machine learning project predicting employee salaries using Linear Regression 
 
 ---
 
-## 📊 Results
+## Results
 | Metric | Value |
 |--------|-------|
 | Intercept (b₀) | 118,633.22 |
@@ -48,7 +48,7 @@ A machine learning project predicting employee salaries using Linear Regression 
 
 ---
 
-## 🚀 How to Run
+## How to Run
 ```bash
 git clone https://github.com/arbaaz6425-git/job-salary-prediction.git
 pip install pandas numpy matplotlib seaborn scikit-learn
